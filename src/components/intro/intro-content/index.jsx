@@ -39,14 +39,14 @@ const IntroContent = () => {
                 <div className="right-col">
                     <img
                         src={girl}
-                        alt="Hello I am Keniya Andrew"
+                        alt="Hello I am Sinha Sanjiv"
                     />
 
                     <div className="highlights horizontal">
                         <div className="icon">
                             <BsAwardFill />
                         </div>
-                        <div className="text">Best Design Award</div>
+                        <div className="text">Front End Developer</div>
                     </div>
 
                     <div className="highlights verticle">
@@ -54,8 +54,8 @@ const IntroContent = () => {
                             <FaUser />
                         </div>
                         <div className="text">
-                            <span>4k+</span>
-                            Happy Customers
+                            <span>4+</span>
+                            Projects
                         </div>
                     </div>
                 </div>
