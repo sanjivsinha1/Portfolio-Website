@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.9506542a.css",
+    "main.js": "/Portfolio-Website/static/js/main.65cb7b3a.js",
+    "static/media/girl.png": "/Portfolio-Website/static/media/girl.9b9fd9571cd1be2fe067.png",
+    "static/media/blog-thumb-2.jpg": "/Portfolio-Website/static/media/blog-thumb-2.6ea419b38772d0c6685f.jpg",
+    "static/media/blog-thumb-1.jpg": "/Portfolio-Website/static/media/blog-thumb-1.d299b4913f9d814f738d.jpg",
+    "static/media/vector-background.png": "/Portfolio-Website/static/media/vector-background.17fff8ffdaaf3dcfe71c.png",
+    "static/media/thumb-5.jpg": "/Portfolio-Website/static/media/thumb-5.27ea789b3b4ba71bd800.jpg",
+    "static/media/blog-thumb-3.jpg": "/Portfolio-Website/static/media/blog-thumb-3.da7632eea65347470e13.jpg",
+    "static/media/thumb-6.jpg": "/Portfolio-Website/static/media/thumb-6.26e955c3cd18b48dc98b.jpg",
+    "static/media/thumb-8.jpg": "/Portfolio-Website/static/media/thumb-8.cdf9b9f4de1c899f5bcc.jpg",
+    "static/media/thumb-1.jpg": "/Portfolio-Website/static/media/thumb-1.c4cdcb71d78a31493dde.jpg",
+    "static/media/file-sample_150kB.pdf": "/Portfolio-Website/static/media/file-sample_150kB.99d8886cade1f0e564c4.pdf",
+    "static/media/thumb-4.jpg": "/Portfolio-Website/static/media/thumb-4.ca0a5db1714d4ca43d24.jpg",
+    "static/media/thumb-3.jpg": "/Portfolio-Website/static/media/thumb-3.7e550fc264d45366b663.jpg",
+    "static/media/tech-icons.png": "/Portfolio-Website/static/media/tech-icons.bba568408fb42fa031c8.png",
+    "static/media/thumb-7.jpg": "/Portfolio-Website/static/media/thumb-7.ce14c76ba50f932d14d4.jpg",
+    "static/media/thumb-2.jpg": "/Portfolio-Website/static/media/thumb-2.5a21a5409f6da3f2ef9e.jpg",
+    "static/media/cloud-soft.png": "/Portfolio-Website/static/media/cloud-soft.4a7c46b961e63488802b.png",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.9506542a.css.map": "/Portfolio-Website/static/css/main.9506542a.css.map",
+    "main.65cb7b3a.js.map": "/Portfolio-Website/static/js/main.65cb7b3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9506542a.css",
+    "static/js/main.65cb7b3a.js"
+  ]
+}
