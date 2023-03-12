@@ -22,7 +22,7 @@ const IntroContent = () => {
                             </span>
                             <span className="text">, I Am</span>
                         </span>
-                        <span className="big-text">Keniya Andrew</span>
+                        <span className="big-text">Sinha Sanjiv</span>
                     </h1>
                     <p className="title">
                         Lorem Ipsum is simply dummy text of the printing and
